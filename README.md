@@ -1,4 +1,5 @@
 NoteNest – Full Stack Note Taking App
+
 Overview:
 NoteNest is a full-stack note-taking application developed using the MERN stack.Designed with responsiveness and usability in mind, the app helps users organize thoughts and tasks across any device.
 
